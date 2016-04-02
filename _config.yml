@@ -1,7 +1,7 @@
 name: Bornovali
 favicon: null
-layout_spectrum: 0.8540538079105318
-typography_spectrum: 0.09437912958674133
+layout_spectrum: 1
+typography_spectrum: 0.49612
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 0.763665113132447
-  lightness: 0.32366141956299543
-  saturation: 0.3456713459454477
-  rhythmicContrast: 0.2869867286644876
+  brandStrength: 0.25
+  lightness: 0.5625
+  saturation: 0.5
+  rhythmicContrast: 0
 purpose: []
