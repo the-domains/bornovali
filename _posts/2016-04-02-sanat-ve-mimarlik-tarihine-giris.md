@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Sevgili Arkadaşlar,'
-datePublished: '2016-04-02T18:36:21.869Z'
-dateModified: '2016-04-02T18:36:10.933Z'
+datePublished: '2016-04-02T18:38:17.056Z'
+dateModified: '2016-04-02T18:37:05.527Z'
 title: 'Sanat ve Mimarlık Tarihine Giriş '
 author: []
 sourcePath: _posts/2016-04-02-sanat-ve-mimarlik-tarihine-giris.md
@@ -36,7 +36,7 @@ Ayrıca kaynak listemiz de bu sayfada yer alıyor ve gelişiyor. Bu listeden en 
 
 4 - Mimarlık Üzerine On Kitap - Vitruvius
 
---------
+---------
 
 Ders 1 (sınıf - 25.02.2016): Sınıfta bulunan öğrencilerin memleket ve semtlerindeki sanat / mimari tarihi unsurları.
 
