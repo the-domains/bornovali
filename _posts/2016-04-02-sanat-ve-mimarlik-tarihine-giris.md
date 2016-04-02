@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Sevgili Arkadaşlar,'
-datePublished: '2016-04-02T18:30:39.350Z'
-dateModified: '2016-04-02T18:30:37.929Z'
+datePublished: '2016-04-02T18:32:03.643Z'
+dateModified: '2016-04-02T18:31:53.783Z'
 title: 'Sanat ve Mimarlık Tarihine Giriş '
 author: []
 sourcePath: _posts/2016-04-02-sanat-ve-mimarlik-tarihine-giris.md
@@ -29,16 +29,14 @@ Bu sayfada dersimizde şu ana kadar neler işlediğimizi birkaç satırla hatır
 Ayrıca kaynak listemiz de bu sayfada yer alıyor ve gelişiyor. Bu listeden en az bir tane kitabı okumanızın mutlaka yararınıza olacağını bilmenizi isterim. Çağımızda fazla kitap okunmuyor ama arada istisnanın kimseye zararı olmaz.
 
 1 - Mimarlık Kavramları - Doğan Kuban
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/118b23de-7028-413a-bdd2-094c03ef057f.jpg)
 
 2 - Sanatın Öyküsü - E. H. Gombrich (sadece işlediğimiz dönemlerle ilgili bölümler bu dönemlik yeter).
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cb2f478d-250c-4bac-92a4-0867109f179b.jpg)
 
 3 - Mimarlığın Öyküsü - Leland M. Roth (sadece işlediğimiz dönemlerle ilgili bölümler bu dönemlik yeter).
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ff1c1460-32ec-42c7-9f8d-03178d92d92e.jpg)
 
 4 - Mimarlık Üzerine On Kitap - Vitruvius
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2377e56c-c305-46d4-a889-85566fbbb21e.jpg)
+
+--------
 
 Ders 1 (sınıf - 25.02.2016): Sınıfta bulunan öğrencilerin memleket ve semtlerindeki sanat / mimari tarihi unsurları.
 
