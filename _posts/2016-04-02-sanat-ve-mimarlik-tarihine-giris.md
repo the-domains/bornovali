@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Sevgili Arkadaşlar,'
-datePublished: '2016-04-02T10:22:22.083Z'
-dateModified: '2016-04-02T10:22:13.532Z'
+datePublished: '2016-04-02T15:53:48.388Z'
+dateModified: '2016-04-02T11:01:38.263Z'
 title: 'Sanat ve Mimarlık Tarihine Giriş '
 author: []
 authors: []
@@ -28,14 +28,17 @@ Bu sayfada dersimizde şu ana kadar neler işlediğimizi birkaç satırla hatır
 
 Ayrıca kaynak listemiz de bu sayfada yer alıyor ve gelişiyor. Bu listeden en az bir tane kitabı okumanızın mutlaka yararınıza olacağını bilmenizi isterim. Çağımızda fazla kitap okunmuyor ama arada istisnanın kimseye zararı olmaz.
 
-Mimarlık Kavramları - Doğan Kuban
+1 - Mimarlık Kavramları - Doğan Kuban
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cb2f478d-250c-4bac-92a4-0867109f179b.jpg)
 
-Sanatın Öyküsü - E. H. Gombrich (sadece işlediğimiz dönemlerle ilgili bölümler bu dönemlik yeter).
+2 - Sanatın Öyküsü - E. H. Gombrich (sadece işlediğimiz dönemlerle ilgili bölümler bu dönemlik yeter).
 
-Mimarlığın Öyküsü - Leland M. Roth (sadece işlediğimiz dönemlerle ilgili bölümler bu dönemlik yeter).
+3 - Mimarlığın Öyküsü - Leland M. Roth (sadece işlediğimiz dönemlerle ilgili bölümler bu dönemlik yeter).
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2377e56c-c305-46d4-a889-85566fbbb21e.jpg)
 
-Mimarlık Üzerine On Kitap - Vitruvius
+4 - Mimarlık Üzerine On Kitap - Vitruvius
 
+  
 Ders 1 (sınıf - 25.02.2016): Sınıfta bulunan öğrencilerin memleket ve semtlerindeki sanat / mimari tarihi unsurları.
 
 Ders 2 (sınıf - 03.03.2016): Mimarlık ve yapı eylemi farklar ve ortak yönler. Güzellik / estetik kavramı ve sanat.
