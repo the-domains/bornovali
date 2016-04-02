@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Sevgili Arkadaşlar,'
-datePublished: '2016-04-02T18:32:03.643Z'
-dateModified: '2016-04-02T18:31:53.783Z'
+datePublished: '2016-04-02T18:33:37.772Z'
+dateModified: '2016-04-02T18:33:34.507Z'
 title: 'Sanat ve Mimarlık Tarihine Giriş '
 author: []
 sourcePath: _posts/2016-04-02-sanat-ve-mimarlik-tarihine-giris.md
@@ -30,9 +30,9 @@ Ayrıca kaynak listemiz de bu sayfada yer alıyor ve gelişiyor. Bu listeden en 
 
 1 - Mimarlık Kavramları - Doğan Kuban
 
-2 - Sanatın Öyküsü - E. H. Gombrich (sadece işlediğimiz dönemlerle ilgili bölümler bu dönemlik yeter).
+2 - Sanatın Öyküsü - E. H. Gombrich (sadece işlediğimiz çağlarla ilgili bölümler bu dönemlik yeter).
 
-3 - Mimarlığın Öyküsü - Leland M. Roth (sadece işlediğimiz dönemlerle ilgili bölümler bu dönemlik yeter).
+3 - Mimarlığın Öyküsü - Leland M. Roth (sadece işlediğimiz çağlarla ilgili bölümler bu dönemlik yeter).
 
 4 - Mimarlık Üzerine On Kitap - Vitruvius
 
