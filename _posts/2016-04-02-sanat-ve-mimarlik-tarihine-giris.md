@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Sevgili Arkadaşlar,'
-datePublished: '2016-04-03T17:23:47.601Z'
-dateModified: '2016-04-03T17:23:44.330Z'
+datePublished: '2016-04-03T17:24:31.739Z'
+dateModified: '2016-04-03T17:24:29.054Z'
 title: 'Sanat ve Mimarlık Tarihine Giriş '
 author: []
 sourcePath: _posts/2016-04-02-sanat-ve-mimarlik-tarihine-giris.md
