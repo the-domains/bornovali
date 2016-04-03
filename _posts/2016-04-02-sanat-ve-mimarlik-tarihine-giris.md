@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Sevgili Arkadaşlar,'
-datePublished: '2016-04-02T18:38:17.056Z'
-dateModified: '2016-04-02T18:37:05.527Z'
+datePublished: '2016-04-03T17:23:47.601Z'
+dateModified: '2016-04-03T17:23:44.330Z'
 title: 'Sanat ve Mimarlık Tarihine Giriş '
 author: []
 sourcePath: _posts/2016-04-02-sanat-ve-mimarlik-tarihine-giris.md
@@ -35,6 +35,8 @@ Ayrıca kaynak listemiz de bu sayfada yer alıyor ve gelişiyor. Bu listeden en 
 3 - Mimarlığın Öyküsü - Leland M. Roth (sadece işlediğimiz çağlarla ilgili bölümler bu dönemlik yeter).
 
 4 - Mimarlık Üzerine On Kitap - Vitruvius
+
+5 - Asterix ve Kleopatra
 
 ---------
 
